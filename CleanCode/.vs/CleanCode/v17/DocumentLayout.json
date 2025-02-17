@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\ACE\\CleanCode\\CleanCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84244311-B598-433D-BE59-AE5C9F06CE12}|CleanCode.csproj|c:\\ace\\cleancode\\cleancode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84244311-B598-433D-BE59-AE5C9F06CE12}|CleanCode.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B0E24F9-B5B5-4DAF-A39F-227F38B81327}|CleanCode.csproj|c:\\ace\\cleancode\\cleancode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0E24F9-B5B5-4DAF-A39F-227F38B81327}|CleanCode.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +42,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T20:13:28.247Z",
+              "WhenOpened": "2025-02-17T20:29:49.349Z",
               "EditorCaption": ""
             }
           ]
