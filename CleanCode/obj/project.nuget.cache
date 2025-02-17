@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b32qQTVF2r6jUZpFPPhwm7OT+EBsDyLuI7r73M6ucVZL9wrdYccZiaUBP7rGuIFgLoxmp9qLzw9A/nKzXE5tjw==",
+  "dgSpecHash": "xvHTAPd9+kRed9z3buaz4aftxKeB1r9GmUtxzZkOf6gSeupYWl3R6F9lzAGSJKNvNKuDnzG9zgqlsAJ/42YmJQ==",
   "success": true,
-  "projectFilePath": "/Users/ryanmearig/Documents/GitHub/cleanCode/CleanCode/CleanCode.csproj",
+  "projectFilePath": "/Users/ryanmearig/cleanCode/CleanCode/CleanCode.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ryanmearig/Documents/GitHub/cleanCode/CleanCode/CleanCode.csproj": {}
+    "/Users/ryanmearig/cleanCode/CleanCode/CleanCode.csproj": {}
   },
   "projects": {
-    "/Users/ryanmearig/Documents/GitHub/cleanCode/CleanCode/CleanCode.csproj": {
+    "/Users/ryanmearig/cleanCode/CleanCode/CleanCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ryanmearig/Documents/GitHub/cleanCode/CleanCode/CleanCode.csproj",
+        "projectUniqueName": "/Users/ryanmearig/cleanCode/CleanCode/CleanCode.csproj",
         "projectName": "CleanCode",
-        "projectPath": "/Users/ryanmearig/Documents/GitHub/cleanCode/CleanCode/CleanCode.csproj",
+        "projectPath": "/Users/ryanmearig/cleanCode/CleanCode/CleanCode.csproj",
         "packagesPath": "/Users/ryanmearig/.nuget/packages/",
-        "outputPath": "/Users/ryanmearig/Documents/GitHub/cleanCode/CleanCode/obj/",
+        "outputPath": "/Users/ryanmearig/cleanCode/CleanCode/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ryanmearig/.nuget/NuGet/NuGet.Config"
