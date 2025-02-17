@@ -1,0 +1,15 @@
+/Users/ryanmearig/Documents/GitHub/cleanCode/CleanCode/bin/Debug/net7.0/CleanCode
+/Users/ryanmearig/Documents/GitHub/cleanCode/CleanCode/bin/Debug/net7.0/CleanCode.deps.json
+/Users/ryanmearig/Documents/GitHub/cleanCode/CleanCode/bin/Debug/net7.0/CleanCode.runtimeconfig.json
+/Users/ryanmearig/Documents/GitHub/cleanCode/CleanCode/bin/Debug/net7.0/CleanCode.dll
+/Users/ryanmearig/Documents/GitHub/cleanCode/CleanCode/bin/Debug/net7.0/CleanCode.pdb
+/Users/ryanmearig/Documents/GitHub/cleanCode/CleanCode/obj/Debug/net7.0/CleanCode.csproj.AssemblyReference.cache
+/Users/ryanmearig/Documents/GitHub/cleanCode/CleanCode/obj/Debug/net7.0/CleanCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryanmearig/Documents/GitHub/cleanCode/CleanCode/obj/Debug/net7.0/CleanCode.AssemblyInfoInputs.cache
+/Users/ryanmearig/Documents/GitHub/cleanCode/CleanCode/obj/Debug/net7.0/CleanCode.AssemblyInfo.cs
+/Users/ryanmearig/Documents/GitHub/cleanCode/CleanCode/obj/Debug/net7.0/CleanCode.csproj.CoreCompileInputs.cache
+/Users/ryanmearig/Documents/GitHub/cleanCode/CleanCode/obj/Debug/net7.0/CleanCode.dll
+/Users/ryanmearig/Documents/GitHub/cleanCode/CleanCode/obj/Debug/net7.0/refint/CleanCode.dll
+/Users/ryanmearig/Documents/GitHub/cleanCode/CleanCode/obj/Debug/net7.0/CleanCode.pdb
+/Users/ryanmearig/Documents/GitHub/cleanCode/CleanCode/obj/Debug/net7.0/CleanCode.genruntimeconfig.cache
+/Users/ryanmearig/Documents/GitHub/cleanCode/CleanCode/obj/Debug/net7.0/ref/CleanCode.dll
