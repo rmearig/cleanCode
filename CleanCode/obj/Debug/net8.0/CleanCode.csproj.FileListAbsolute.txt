@@ -1,0 +1,15 @@
+C:\ACE\CleanCode\CleanCode\bin\Debug\net8.0\CleanCode.exe
+C:\ACE\CleanCode\CleanCode\bin\Debug\net8.0\CleanCode.deps.json
+C:\ACE\CleanCode\CleanCode\bin\Debug\net8.0\CleanCode.runtimeconfig.json
+C:\ACE\CleanCode\CleanCode\bin\Debug\net8.0\CleanCode.dll
+C:\ACE\CleanCode\CleanCode\bin\Debug\net8.0\CleanCode.pdb
+C:\ACE\CleanCode\CleanCode\obj\Debug\net8.0\CleanCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\ACE\CleanCode\CleanCode\obj\Debug\net8.0\CleanCode.AssemblyInfoInputs.cache
+C:\ACE\CleanCode\CleanCode\obj\Debug\net8.0\CleanCode.AssemblyInfo.cs
+C:\ACE\CleanCode\CleanCode\obj\Debug\net8.0\CleanCode.csproj.CoreCompileInputs.cache
+C:\ACE\CleanCode\CleanCode\obj\Debug\net8.0\CleanCode.sourcelink.json
+C:\ACE\CleanCode\CleanCode\obj\Debug\net8.0\CleanCode.dll
+C:\ACE\CleanCode\CleanCode\obj\Debug\net8.0\refint\CleanCode.dll
+C:\ACE\CleanCode\CleanCode\obj\Debug\net8.0\CleanCode.pdb
+C:\ACE\CleanCode\CleanCode\obj\Debug\net8.0\CleanCode.genruntimeconfig.cache
+C:\ACE\CleanCode\CleanCode\obj\Debug\net8.0\ref\CleanCode.dll
